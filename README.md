@@ -17,7 +17,7 @@ This project analyzes Uber fare data to identify key pricing trends based on tri
 
 ## Key Findings
 - Shorter trips have higher per-mile costs due to base fare impact
-- Decision Tree model outperformed Linear Regression with an R² of X.XX (insert your result)
+- Decision Tree model outperformed Linear Regression 
 - Pricing trends varied by pickup time and distance distribution
 
 ## Tools Used
